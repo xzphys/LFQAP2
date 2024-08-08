@@ -7,6 +7,9 @@ mpirun  -n x -host node1:1,node2:1,...noden:1 ./plt-mpi network sample
 (3)Multithreaded setup
 #define NUM_THREADS n (n is the thread number) in file platform.cpp
 
+(4)test sample
+refer to gendataset_guass.cpp
+
 initialization, Self-defined functionality or Replacing the simulator please refer to LFQAP https://github.com/xzphys/LFQAP
 
 
