@@ -1,3 +1,13 @@
+Developers:
+Xin Zhang1, Xiaoyu Li2, Lianfu Wei3, Qinsheng Zhu4, Geng Chen4, Wenjie Shun5, Lianhui Yu6, Yuexian Hou1,*
+1 (College of Intelligence and Computing, Tianjin University, Tianjin 300350, China)
+2 (School of Information and Software Engineering, University of Electronic Science and Technology of China, Chengdu 610054)
+3 (College of Information Science and Technology, Southwest Jiaotong University, Chengdu 610031)
+4 (School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu 610000)
+5 (School of Electronic Science and Engineering, University of Electronic Science and Technology of China, Chengdu 610000)
+6 (School of Physics, University of Electronic Science and Technology of China, Chengdu 610000)
+*yxhou@tju.edu.cn
+
 (1)compile
 mpic++  -I ./ -I include/ calculategk.cpp platform.cpp simulator.cpp -fopenmp -g -o plt-mpi
 
